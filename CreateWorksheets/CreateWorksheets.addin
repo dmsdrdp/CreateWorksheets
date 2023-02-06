@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\CreateWorksheets.dll</Assembly>
+		<AddInId>0DF94292-F74A-41C4-8E9C-697420699AAD</AddInId>
+		<FullClassName>CreateWorksheets.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Создание листов</Text>
+	</AddIn>
+</RevitAddIns>
